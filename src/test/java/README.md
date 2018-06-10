@@ -101,4 +101,4 @@ For writing, I use the `Page Object` template, the `Page Factory` class, Java Sc
 
 ***To run all tests***
 
-To run only one test, add ***-Dtest = [class name]*** to the maven command line.
+- To run only one test, add ***-Dtest = [class name]*** to the maven command line.
